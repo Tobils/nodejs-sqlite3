@@ -1,0 +1,3 @@
+/home/ade/Documents/develope-tobil/C++/[1] SQLite3 example/SQLite3/[1]Basic/build/CMakeFiles/rebuild_cache.dir
+/home/ade/Documents/develope-tobil/C++/[1] SQLite3 example/SQLite3/[1]Basic/build/CMakeFiles/edit_cache.dir
+/home/ade/Documents/develope-tobil/C++/[1] SQLite3 example/SQLite3/[1]Basic/build/CMakeFiles/db-tutorial.dir

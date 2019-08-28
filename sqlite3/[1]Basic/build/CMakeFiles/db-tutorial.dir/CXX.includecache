@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ade/Documents/develope-tobil/C++/[1] SQLite3 example/SQLite3/[1]Basic/src/main.cpp
+stdio.h
+-
+sqlite3.h
+-
+

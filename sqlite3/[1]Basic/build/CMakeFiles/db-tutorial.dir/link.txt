@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/db-tutorial.dir/src/main.cpp.o  -o ../bin/db-tutorial -lsqlite3 
