@@ -1,5 +1,5 @@
 # Menggunakan sqlite3 pada nodejs
-source : petanikode.com/nodejs-sqlite/
+[source : ](petanikode.com/nodejs-sqlite/)
 
 ```shell
 mkdir nodejs-sqlite
